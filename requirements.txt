@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────────
+#  Fraud Anomaly Detection — Python Dependencies
+#  Python >= 3.9 recommended
+# ─────────────────────────────────────────────────────────────────
+
+# Core data science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+nbformat>=5.9.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+
+# Optional: enhanced reporting
+ipywidgets>=8.0.0

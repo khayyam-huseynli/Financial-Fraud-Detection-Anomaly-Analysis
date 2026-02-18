@@ -45,7 +45,8 @@ fraud-detection-repo/
 │   └── transactions.csv                # Raw transaction dataset (2,512 rows)
 │
 ├── docs/
-│   └── executive_summary.docx          # Non-technical stakeholder report
+│   ├── executive_summary.docx
+│   └── executive_summary.pptx          # Non-technical stakeholder report
 │
 ├── outputs/                            # Generated charts (populated on run)
 │   ├── anomalies_summary.csv

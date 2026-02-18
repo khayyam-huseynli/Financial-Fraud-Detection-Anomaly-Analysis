@@ -310,8 +310,4 @@ All outputs are saved to the `outputs/` directory when the notebook is run:
 
 ## License
 
-This project is for internal analysis purposes. Data is confidential and must not be shared externally.
-
----
-
-*Analysis produced using Python 3.10 · scikit-learn · pandas · matplotlib*
+This project is licensed under the MIT License
